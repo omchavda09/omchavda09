@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/omchavdapl"><img src="https://img.shields.io/github/followers/omchavdapl?label=Followers&style=social" alt="Followers"></a>
+  <a href="https://github.com/omchavda09"><img src="https://img.shields.io/github/followers/omchavda09?label=Followers&style=social" alt="Followers"></a>
 </p>
 
 ---
@@ -15,7 +15,7 @@ I am a software developer focused on building clean, efficient, and impactful ap
 
 - 🔭 **Current Focus:** Building on my **Java** fundamentals and learning **Python**.
 - 🌐 **Web Development:** Gained hands-on experience with the **MERN Stack** (MongoDB, Express, React, Node.js) during Semester 4.
-- 💼 **Portfolio:** Check out my work at [Om's Portfolio](https://github.com/omchavdapl/Om-s-portfolio).
+- 💼 **Portfolio:** Check out my work at [Om's Portfolio](https://github.com/omchavda09/Om-s-portfolio).
 - 💬 **Ask me about:** Java, basic web development, and database concepts.
 
 ---
@@ -52,12 +52,12 @@ I am a software developer focused on building clean, efficient, and impactful ap
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omchavdapl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Om's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omchavdapl&layout=compact&theme=tokyonight&hide_border=true" alt="Om's Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omchavda09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Om's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omchavda09&layout=compact&theme=tokyonight&hide_border=true" alt="Om's Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omchavdapl&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=omchavda09&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
 </p>
 
 ---
