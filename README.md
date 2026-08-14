@@ -16,6 +16,7 @@ I am a software developer focused on building clean, efficient, and impactful ap
 - 🔭 **Current Focus:** Building on my **Java** fundamentals and learning **Python**.
 - 🌐 **Web Development:** Gained hands-on experience with the **MERN Stack** (MongoDB, Express, React, Node.js) during Semester 4.
 - 💼 **Portfolio:** Check out my work at [Om's Portfolio](https://github.com/omchavda09/Om-s-portfolio).
+- 🎨 **Creativity:** I upload sketch art on my [YouTube Channel](https://youtube.com/your-channel) — check it out!
 - 💬 **Ask me about:** Java, basic web development, and database concepts.
 
 ---
@@ -68,7 +69,7 @@ I am a software developer focused on building clean, efficient, and impactful ap
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/your-profile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://youtube.com/your-channel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
 <p align="center">
